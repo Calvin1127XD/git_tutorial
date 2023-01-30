@@ -1,0 +1,10 @@
+
+donotrack.rtf
+.DS_Store
+#Data folder
+/figures
+*.pdf
+*.log
+
+# This line is ignored.
+
